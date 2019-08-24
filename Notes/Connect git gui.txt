@@ -1,0 +1,2 @@
+open git gui: git citool
+open git cola: git-cola
